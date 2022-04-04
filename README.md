@@ -1,4 +1,4 @@
-### <p align= "center"> :computer: JUNIOR FULLSTACK DEVELOPER :computer:
+### <p align= "center"> :computer: JUNIOR FULL STACK DEVELOPER :computer:
 
 <p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
@@ -9,13 +9,14 @@ I love to code and I cant wait to start to develop more projects that will impro
 <br>
 :book:  <b>TECH KNOWLEDGE</b> :book: <br>
 <br>
-<b>Languages:</b> <br> 
+<b>Languages:</b>
+
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<b>Front End Libraries: :</b> <br> 
+<b>Front End Libraries: </b> <br> 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
