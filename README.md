@@ -1,13 +1,14 @@
-### <p align= "center"> JUNIOR FULLSTACK DEVELOPER 
+### <p align= "center"> :computer: JUNIOR FULLSTACK DEVELOPER :computer:
 
-<b> About me </b>  :raising_hand:
+<p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
-Hello, I am Thais. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/><br>
-I am from Sao Paulo, Brazil and I have been 3 years in Nederlands. :house: Ive just achievied the dream of becoming a Full Stack Developer after a 10-week-bootcamp on Codaisseur Academy Amsterdam.:pencil: <br>
-I love to code and I cant wait to start to develop more projects that will improve peoples life.:hearts:
-
-:book:  <b>Tech Knowledge</b>:computer:<br>
-  <br>
+<p align="center">Hello, I am Thais. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/><br>
+I am from Sao Paulo, Brazil and I have been 3 years in Nederlands. :house: <br>
+  Ive just achieved the dream of becoming a Full Stack Developer after a 10-week-bootcamp on Codaisseur Academy Amsterdam.:pencil: <br>
+I love to code and I cant wait to start to develop more projects that will improve peoples life.:hearts: </p>
+<br>
+:book:  <b>TECH KNOWLEDGE</b> :book: <br>
+<br>
 <b>Languages:</b> <br> 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +29,7 @@ I love to code and I cant wait to start to develop more projects that will impro
 <b>Database:</b> <br> ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
-  :pushpin: <b> Projects </b> :pushpin:
+  :pushpin: <b> PROJECTS </b> :pushpin:
   <br>
 </b> <br>
 :blue_book:<b>My Manga Library Full Stack Website </b>:blue_book: <br>
