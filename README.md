@@ -59,7 +59,7 @@ Website created to divulgate my moms work on last Father`s Day. :hearts:
 <br>
 <br>
 :city_sunset:<b>Sao Bernardo do Campo City Landpage Website</b> :city_sunset:<br>
-This website tells a little but of the city I am from and I have visited the suggested places many many times, since I was a little baby. :hearts:
+This website tells a little but of the city I am from and I have visited the suggested places many many times, since I was a little kid. :girl:
 <br>
 <b>Created with:</b> HTML, CSS and Vanilla JS using SEO concepts.<br>
 <b>URL: https://sweet-biscochitos-82f1e9.netlify.app</b><br>
