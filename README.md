@@ -3,9 +3,9 @@
 <p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
 <p align="center">Hello, I am Thais. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/><br>
-I am from Sao Paulo, Brazil and I have been 3 years in Nederlands. :house: <br>
-  Ive just achieved the dream of becoming a Full Stack Developer after a 10-week-bootcamp on Codaisseur Academy Amsterdam.:pencil: <br>
-I love to code and I cant wait to start to develop more projects that will improve peoples life.:hearts: </p>
+I am from Sao Paulo, Brazil and I have been 3,5 years in Nederlands. :house: <br>
+I am a Jr. Full Stack Developer and I love to learn new technologies.:pencil: <br>
+I also love to code and to develop projects that will improve peoples life.:hearts: </p>
 <br>
 :book:  <b>TECH KNOWLEDGE</b> :book: <br>
 <br>
@@ -38,6 +38,7 @@ Website created in order to manage japanese comic
 books and collections.<br>
 <b>Created with:</b> React, Redux, Material UI, Express, Axios,
 PostgresSQL, Sequelize Cli.
+<b>URL: https://bucolic-duckanoo-cb0177.netlify.app</b>
 <br>
 <br>
 :briefcase:<b>What's Nearby Full Stack Website</b> :briefcase:<br>
@@ -46,3 +47,22 @@ close to their homes and create a blog to report their experiences. The default 
 <br>
 <b>Created with:</b> React, Redux, Tailwind, Express, Axios,
 Postgres, Sequelize Cli.
+<b>URL: https://starlit-halva-7181ee.netlify.app</b>
+<b>*project will be uptaded with a new locations Api</b>
+<br>
+<br>
+:briefcase:<b>Meg Produtos Personalizados SEO Landpage</b> :briefcase:<br>
+Website created to divulgate my mom`s work on last Father`s Day. :hearts:
+<br>
+<b>Created with:</b> HTML, CSS and Vanilla JS using SEO concepts.
+<b>URL: https://starlit-halva-7181ee.netlify.app</b>
+<b>*project will be uptaded with a new locations Api</b>
+<br>
+<br>
+:briefcase:<b>Sao Bernardo do Campo City Landpage Website</b> :briefcase:<br>
+This website tells a little but of the city I am from and I have visited the suggested places many many times, since I was a little baby. :hearts:
+<br>
+<b>Created with:</b> HTML, CSS and Vanilla JS using SEO concepts.
+<b>URL: https://sweet-biscochitos-82f1e9.netlify.app</b>
+<b>*project will be uptaded with a page to post the reviews of the recommended places to visit</b>
+
