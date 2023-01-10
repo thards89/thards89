@@ -41,7 +41,7 @@ PostgresSQL, Sequelize Cli.<br>
 <b>URL: https://bucolic-duckanoo-cb0177.netlify.app</b>
 <br>
 <br>
-:briefcase:<b>What's Nearby Full Stack Website</b> :briefcase:<br>
+:earth_americas:<b>What's Nearby Full Stack Website</b> :earth_americas:<br>
 Website created with two classmates, it help expats to look for places really
 close to their homes and create a blog to report their experiences. The default range of search is 5km.
 <br>
@@ -58,7 +58,7 @@ Website created to divulgate my moms work on last Father`s Day. :hearts:
 <b>URL: https://starlit-halva-7181ee.netlify.app</b>
 <br>
 <br>
-:briefcase:<b>Sao Bernardo do Campo City Landpage Website</b> :briefcase:<br>
+:city_sunset:<b>Sao Bernardo do Campo City Landpage Website</b> :city_sunset:<br>
 This website tells a little but of the city I am from and I have visited the suggested places many many times, since I was a little baby. :hearts:
 <br>
 <b>Created with:</b> HTML, CSS and Vanilla JS using SEO concepts.<br>
