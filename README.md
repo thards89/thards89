@@ -37,7 +37,7 @@ I also love to code and to develop projects that will improve peoples life.:hear
 Website created in order to manage japanese comic
 books and collections.<br>
 <b>Created with:</b> React, Redux, Material UI, Express, Axios,
-PostgresSQL, Sequelize Cli.
+PostgresSQL, Sequelize Cli.<br>
 <b>URL: https://bucolic-duckanoo-cb0177.netlify.app</b>
 <br>
 <br>
@@ -46,23 +46,22 @@ Website created with two classmates, it help expats to look for places really
 close to their homes and create a blog to report their experiences. The default range of search is 5km.
 <br>
 <b>Created with:</b> React, Redux, Tailwind, Express, Axios,
-Postgres, Sequelize Cli.
-<b>URL: https://starlit-halva-7181ee.netlify.app</b>
+Postgres, Sequelize Cli.<br>
+<b>URL: https://starlit-halva-7181ee.netlify.app</b><br>
 <b>*project will be uptaded with a new locations Api</b>
 <br>
 <br>
 :briefcase:<b>Meg Produtos Personalizados SEO Landpage</b> :briefcase:<br>
-Website created to divulgate my mom`s work on last Father`s Day. :hearts:
+Website created to divulgate my moms work on last Father`s Day. :hearts:
 <br>
 <b>Created with:</b> HTML, CSS and Vanilla JS using SEO concepts.
-<b>URL: https://starlit-halva-7181ee.netlify.app</b>
-<b>*project will be uptaded with a new locations Api</b>
+<b>URL: https://starlit-halva-7181ee.netlify.app</b><br>
 <br>
 <br>
 :briefcase:<b>Sao Bernardo do Campo City Landpage Website</b> :briefcase:<br>
 This website tells a little but of the city I am from and I have visited the suggested places many many times, since I was a little baby. :hearts:
 <br>
-<b>Created with:</b> HTML, CSS and Vanilla JS using SEO concepts.
-<b>URL: https://sweet-biscochitos-82f1e9.netlify.app</b>
+<b>Created with:</b> HTML, CSS and Vanilla JS using SEO concepts.<br>
+<b>URL: https://sweet-biscochitos-82f1e9.netlify.app</b><br>
 <b>*project will be uptaded with a page to post the reviews of the recommended places to visit</b>
 
