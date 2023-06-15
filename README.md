@@ -3,7 +3,7 @@
 <p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
 <p align="center">Hello, I am Thais. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/><br>
-I am from Sao Paulo, Brazil and I lived the last 4 years in Nederlands and now I`ve just moved to Dublin in Ireland :house: <br>
+I am from Sao Paulo, Brazil and I lived the last 4 years in The Netherlands and now I`ve just moved to Dublin in Ireland :house: <br>
 I am a Jr. Full Stack Developer and I love to learn and study new technologies.:pencil: <br>
 I am a student of a Bachelour course on Software Engineering.<br>
 I also love to code and to develop projects that will improve peoples life.:hearts: </p>
@@ -52,14 +52,15 @@ PostgresSQL, Sequelize Cli.<br>
 https://github.com/thards89/manga-app-backend</b>
 <br>
 <br>
-:earth_americas:<b>What's Nearby Full Stack Website</b> :earth_americas:<br>
-Website created with two classmates, it help expats to look for places really
-close to their homes and create a blog to report their experiences. The default range of search is 5km.
+:earth_americas:<b>Where is the Rock Bar Full Stack Website</b> :earth_americas:<br>
+Website created with the idea that came with my classmates of creating an app that helps expats to look for places really
+close to their homes and create a blog to report their experiences. <br>
+I used the base of that project to create this new website where you can find Rock Bars close by you and also register your experience on them. The default range distance is 5km.
 <br>
 <b>Created with:</b> React, Redux, Tailwind, Express, Axios,
 Postgres, Sequelize Cli.<br>
 <b>URL:https://github.com/thards89/where_is_the_rock_bar_front <br>https://github.com/thards89/where_is_the_rock_bar_back
-</b><br>
+</b>
 <br>
 <br>
 :briefcase:<b>Meg Produtos Personalizados SEO Landpage Website</b> :briefcase:<br>
