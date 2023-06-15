@@ -3,9 +3,11 @@
 <p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
 <p align="center">Hello, I am Thais. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/><br>
-I am from Sao Paulo, Brazil and I have been 3,5 years in Nederlands. :house: <br>
-I am a Jr. Full Stack Developer and I love to learn new technologies.:pencil: <br>
+I am from Sao Paulo, Brazil and I lived the last 4 years in Nederlands and now I`ve just moved to Dublin in Ireland :house: <br>
+I am a Jr. Full Stack Developer and I love to learn and study new technologies.:pencil: <br>
+I am a student of a Bachelour course on Software Engineering.<br>
 I also love to code and to develop projects that will improve peoples life.:hearts: </p>
+
 <br>
 :book:  <b>TECH KNOWLEDGE</b> :book: <br>
 <br>
@@ -46,8 +48,8 @@ Website created in order to manage japanese comic
 books and collections.<br>
 <b>Created with:</b> React, Redux, Material UI, Express, Axios,
 PostgresSQL, Sequelize Cli.<br>
-<b>URL: https://github.com/thards89/manga-managment-app-front-end</b><br>
-https://github.com/thards89/manga-app-backend
+<b>URL: https://github.com/thards89/manga-managment-app-front-end<br>
+https://github.com/thards89/manga-app-backend</b>
 <br>
 <br>
 :earth_americas:<b>What's Nearby Full Stack Website</b> :earth_americas:<br>
