@@ -46,7 +46,8 @@ Website created in order to manage japanese comic
 books and collections.<br>
 <b>Created with:</b> React, Redux, Material UI, Express, Axios,
 PostgresSQL, Sequelize Cli.<br>
-<b>URL: https://bucolic-duckanoo-cb0177.netlify.app</b>
+<b>URL: https://github.com/thards89/manga-managment-app-front-end</b><br>
+https://github.com/thards89/manga-app-backend
 <br>
 <br>
 :earth_americas:<b>What's Nearby Full Stack Website</b> :earth_americas:<br>
@@ -55,8 +56,8 @@ close to their homes and create a blog to report their experiences. The default 
 <br>
 <b>Created with:</b> React, Redux, Tailwind, Express, Axios,
 Postgres, Sequelize Cli.<br>
-<b>URL: https://starlit-halva-7181ee.netlify.app</b><br>
-<b>*project will be uptaded with a new locations Api</b>
+<b>URL:https://github.com/thards89/where_is_the_rock_bar_front <br>https://github.com/thards89/where_is_the_rock_bar_back
+</b><br>
 <br>
 <br>
 :briefcase:<b>Meg Produtos Personalizados SEO Landpage Website</b> :briefcase:<br>
