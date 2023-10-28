@@ -3,7 +3,7 @@
 <p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
 <p align="center">Hello, I am Thais. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/><br>
-I am from Sao Paulo, Brazil and I lived the last 4 years in The Netherlands and now I`ve just moved to Dublin in Ireland :house: <br>
+I am from Sao Paulo, Brazil and I lived the past 4 years in The Netherlands and now I`ve recently moved to Dublin in Ireland :house: <br>
 I am a Jr. Full Stack Developer and I love to learn and study new technologies.:pencil: <br>
 I am a student of a Bachelour course on Software Engineering.<br>
 I also love to code and to develop projects that will improve peoples life.:hearts: </p>
@@ -40,11 +40,23 @@ I also love to code and to develop projects that will improve peoples life.:hear
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-  :pushpin: <b> PROJECTS </b> :pushpin:
+  :pushpin: <b> PORTIFOLIO </b> :pushpin:
   <br>
 </b> <br>
+<b>Marcos de Andrade Gemstones </b>:blue_book: <br>
+Website created in Wordpress to promote the customer`s gemstones shop.<br>
+<b>Created with:</b> Wordpress<br>
+<b>URL: http://marcosdeandradegemstones.wordpress.com</b>
+<br>
+<br>
+<b>Daniel Doet Voice Actor Wordpress Website </b>:blue_book: <br>
+Website created in Wordpress to promote the customer`s work as voice actor.<br>
+<b>Created with:</b> Wordpress and Elementor Plugin<br>
+<b>URL: http://danieldoet.nl</b>
+<br>
+<br>
 :blue_book:<b>My Manga Library Full Stack Website </b>:blue_book: <br>
-Website created in order to manage japanese comic
+Website created to manage japanese comic
 books and collections.<br>
 <b>Created with:</b> React, Redux, Material UI, Express, Axios,
 PostgresSQL, Sequelize Cli.<br>
