@@ -43,14 +43,14 @@ I also love to code and to develop projects that will improve peoples life.:hear
   :pushpin: <b> PORTIFOLIO </b> :pushpin:
   <br>
 </b> <br>
-<b>Marcos de Andrade Gemstones </b>:blue_book: <br>
-Website created in Wordpress to promote the customer`s gemstones shop.<br>
+<b>Marcos de Andrade Gemstones </b> <br>
+Website created in Wordpress to promote the customer gemstones shop.<br>
 <b>Created with:</b> Wordpress<br>
 <b>URL: http://marcosdeandradegemstones.wordpress.com</b>
 <br>
 <br>
-<b>Daniel Doet Voice Actor Wordpress Website </b>:blue_book: <br>
-Website created in Wordpress to promote the customer`s work as voice actor.<br>
+<b>Daniel Doet Voice Actor Wordpress Website </b><br>
+Website created in Wordpress to promote the customer work as voice actor.<br>
 <b>Created with:</b> Wordpress and Elementor Plugin<br>
 <b>URL: http://danieldoet.nl</b>
 <br>
