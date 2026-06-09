@@ -3,9 +3,9 @@
 <p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
 <p align="center">Hello, I am Thais. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/><br>
-Originally from **São Paulo, Brazil**, I spent four years living in **The Netherlands** and have now been based in **Dublin, Ireland** for the past three years 🏡 <br>
-I’m a **Junior Full Stack Developer** passionate about learning and exploring new technologies ✨ <br>
-I recently completed a **Higher Diploma in Computing** at **CCT College Dublin**, where I strengthened my skills in **Java, JavaScript, Node.js, and MySQL**.<br>
+Originally from <b>São Paulo, Brazil</b>, I spent four years living in <b>The Netherlands</b> and have now been based in <b>Dublin, Ireland</b> for the past three years 🏡 <br>
+I’m a <b>Junior Full Stack Developer</b> passionate about learning and exploring new technologies ✨ <br>
+I recently completed a <b>Higher Diploma in Computing</b> at <b>CCT College Dublin</b>, where I strengthened my skills in <b>Java, JavaScript, Node.js, and MySQL</b>.<br>
 I love building projects that make life easier and more enjoyable 💡<br>
 Coding is not just my profession, it’s how I express creativity and solve real‑world problems ❤️<br>
 </p>
