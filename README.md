@@ -6,13 +6,13 @@
 Originally from **São Paulo, Brazil**, I spent four years living in **The Netherlands** and have now been based in **Dublin, Ireland** for the past three years 🏡 <br>
 I’m a **Junior Full Stack Developer** passionate about learning and exploring new technologies ✨ <br>
 I recently completed a **Higher Diploma in Computing** at **CCT College Dublin**, where I strengthened my skills in **Java, JavaScript, Node.js, and MySQL**.<br>
-I also love to code and to develop projects that will improve peoples life.:hearts: </p>
-
-<br>
 I love building projects that make life easier and more enjoyable 💡<br>
 Coding is not just my profession, it’s how I express creativity and solve real‑world problems ❤️<br>
+</p>
+
 <br>
-<b>Languages:</b><br>
+<br>
+<b>Languages: </b><br>
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
