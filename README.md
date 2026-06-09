@@ -3,31 +3,26 @@
 <p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
 <p align="center">Hello, I am Thais. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/><br>
-I am from Sao Paulo, Brazil and I lived the past 4 years in The Netherlands and now I`ve recently moved to Dublin in Ireland :house: <br>
-I am a Jr. Full Stack Developer and I love to learn and study new technologies.:pencil: <br>
-I am a student of a Bachelour course on Software Engineering.<br>
+Originally from **São Paulo, Brazil**, I spent four years living in **The Netherlands** and have now been based in **Dublin, Ireland** for the past three years 🏡 <br>
+I’m a **Junior Full Stack Developer** passionate about learning and exploring new technologies ✨ <br>
+I recently completed a **Higher Diploma in Computing** at **CCT College Dublin**, where I strengthened my skills in **Java, JavaScript, Node.js, and MySQL**.<br>
 I also love to code and to develop projects that will improve peoples life.:hearts: </p>
 
 <br>
-:book:  <b>TECH KNOWLEDGE</b> :book: <br>
+I love building projects that make life easier and more enjoyable 💡<br>
+Coding is not just my profession, it’s how I express creativity and solve real‑world problems ❤️<br>
 <br>
 <b>Languages:</b><br>
-
-
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 <b>Front End Frameworks: </b> <br> 
-![](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 
 <b>Backend:</b> <br> 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
