@@ -39,49 +39,43 @@ Coding is not just my profession, it’s how I express creativity and solve real
 
 
   :pushpin: <b> PORTIFOLIO </b> :pushpin:
-  <br>
-</b> <br>
+<br>
 
-<b>Vinyl Records E commerce</b> <br>
+:musical_score:<b>Vinyl Records E commerce</b>:musical_score: <br>
 Full stack website with cart, checkout, REST APIs, external API calls, and MySQL storage.<br>
 <b>Created with:</b> Javascript, MySQL, Node, Express<br>
 <b>URL: https://github.com/thards89/CA2_Vinyl_Record_Shop</b>
 <br>
 <br>
 
-<b>HR Employee Management System</b> <br>
+:department_store:<b>HR Employee Management System</b>:department_store: <br>
 Employee management system, console based with input validation, menu workflows, and algorithms implementation such as Merge Sort and Binary Search<br>
 <b>Created with:</b> Java, Algorithms<br>
 <b>URL: https://github.com/thards89/CA2_Dept_Store_System_Final</b>
 <br>
 <br>
 
-<b>Restaurant Food Management System</b> <br>
+:pizza:<b>Restaurant Food Management System</b>:pizza: <br>
 Food inventory management system using core Java data structures such as queues and stacks.<br>
 <b>Created with:</b> Java <br>
 <b>URL: https://github.com/thards89/Food_System_Ca1</b>
 <br>
 <br>
 
-<b>Car Rental System</b> <br>
+:red_car:<b>Car Rental System</b>:red_car: <br>
 Console based system with input validation, menu workflows, and MySQL operations.<br>
 <b>Created with:</b> Java, MySQL<br>
 <b>URL: https://github.com/thards89/Car_Rentals_System</b>
 <br>
 <br>
 
-<b>Marcos de Andrade Gemstones </b> <br>
+:crystal_ball:<b>Marcos de Andrade Gemstones </b>:crystal_ball: <br>
 Website created in Wordpress to promote the customer gemstones shop.<br>
 <b>Created with:</b> Wordpress<br>
 <b>URL: http://marcosdeandradegemstones.wordpress.com</b>
 <br>
 <br>
-<b>Daniel Doet Voice Actor Wordpress Website </b><br>
-Website created in Wordpress to promote the customer work as voice actor.<br>
-<b>Created with:</b> Wordpress and Elementor Plugin<br>
-<b>URL: http://danieldoet.nl</b>
-<br>
-<br>
+
 :blue_book:<b>My Manga Library Full Stack Website </b>:blue_book: <br>
 Website created to manage japanese comic
 books and collections.<br>
