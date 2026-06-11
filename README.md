@@ -1,4 +1,4 @@
-### <p align= "center"> :computer: JUNIOR FULL STACK DEVELOPER :computer:
+### <p align= "center"> JUNIOR FULL STACK DEVELOPER 
 
 <p align="center"><b> ABOUT ME  :raising_hand: </b></p> 
 
@@ -104,7 +104,7 @@ This website tells a little but of the city I am from and I have visited the sug
 <b>*project will be uptaded with a page to post the reviews of the recommended places to visit</b>
 <br>
 <br>
-:briefcase:<b>Meg Produtos Personalizados SEO Landpage Website</b> :briefcase:<br>
+:gift:<b>Meg Produtos Personalizados SEO Landpage Website</b> :gift:<br>
 Website created to divulgate my moms work on last Father`s Day. :hearts:
 <br>
 <b>Created with:</b> HTML, CSS and Vanilla JS using SEO concepts.<br>
